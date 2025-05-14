@@ -1,4 +1,4 @@
-let personagens = [{nome:"Gandalf",classe:"mago",nivel:1,hp:10,habilidades:["Bola de fogo"],acoesRealizadas:[]}]
+let personagens = [{nome:"Gandalf",classe:"mago",nivel:1,hp:10,habilidades:["Bola de fogo"],acoesRealizadas:[]},{nome:"fizt",classe:"mago",nivel:2,hp:100,habilidades:["tranformo"],acoesRealizadas:[]}]
 //um array pra salvar os personagens com um personagem basico pra usar de base e teste no codigo
 function atacar(personagenNum){
     //salva nas ações realizadas a ação de atacar
